@@ -1,0 +1,19 @@
+{
+  "name": "begging_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.21",
+    "mongoose": "^4.4.19",
+    "pipe": "^1.1.0"
+  }
+}
